@@ -5,7 +5,7 @@ I currently do not have any intention of publishing this library (on crates.io).
 ## TODO List
 (May add more as I go)
 - [x] Custom Error Class  
-- [x] Tensor Class (WIP)  
+- [x] Tensor Class  
 - [ ] Perceptron Class  
 - [ ] Linear Regressor Class
 - [ ] Cost Function Class
