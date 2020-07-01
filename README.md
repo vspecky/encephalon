@@ -6,9 +6,11 @@ I currently do not have any intention of publishing this library (on crates.io).
 (May add more as I go)
 - [x] Custom Error Class  
 - [x] Tensor Class  
-- [ ] Perceptron Class  
-- [ ] Linear Regressor Class
-- [ ] Cost Function Class
-- [ ] Activation Class
-- [ ] Neural Network Class
+- [x] Cost Functions  
+- [x] Cost Function Derivatives for Gradient Descent (Partially)  
+- [x] Perceptron Class (Partially)  
+- [ ] Linear Regressor Class  
+- [ ] Activation Functions  
+- [ ] Neural Network  
+- [ ] Backpropagation
 - [ ] Polynomial Regressor Class  
