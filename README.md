@@ -9,7 +9,7 @@ I currently do not have any intention of publishing this library (on crates.io).
 - [x] Cost Functions  
 - [x] Cost Function Derivatives for Gradient Descent (Partially)  
 - [x] Perceptron Class (Partially)  
-- [ ] Linear Regressor Class  
+- [x] Linear Regressor Class  
 - [ ] Activation Functions  
 - [ ] Neural Network  
 - [ ] Backpropagation
